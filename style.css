@@ -649,7 +649,7 @@ p,
 label,
 .btn,
 a {
-    font-family: "helvetica", sans-serif;
+    font-family: "helvetica", "sans-serif", "Open Sans";
     font-weight: 400;
  
 }
